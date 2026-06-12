@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --account=rrg-pbellec
+#SBATCH --account=def-pbellec
 #SBATCH --job-name=extract_tseries
 #SBATCH --output=/home/mstlaure/links/scratch/neuromod/harrypotter.timeseries/slurm_files/slurm-%A_%a.out
 #SBATCH --error=/home/mstlaure/links/scratch/neuromod/harrypotter.timeseries/slurm_files/slurm-%A_%a.err
