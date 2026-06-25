@@ -1,0 +1,1 @@
+5bcde602-9f5e-414a-af40-fe98579c2940 autoenable=true bucket=cneuromod.harrypotter.timeseries chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.harrypotter.timeseries port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1782409323.798220607s
